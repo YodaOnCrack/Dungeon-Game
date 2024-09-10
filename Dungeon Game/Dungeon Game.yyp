@@ -26,11 +26,12 @@
   },
   "name":"Dungeon Game",
   "resources":[
-    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"player_processes","path":"scripts/player_processes/player_processes.yy",},},
     {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"Tile_walls","path":"tilesets/Tile_walls/Tile_walls.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
