@@ -25,6 +25,7 @@
   },
   "name":"Dungeon Game",
   "resources":[
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"player_processes","path":"scripts/player_processes/player_processes.yy",},},
