@@ -35,9 +35,6 @@
     "name":"sPlayer",
     "path":"sprites/sPlayer/sPlayer.yy",
   },
-  "spriteMaskId":{
-    "name":"Collision_spr",
-    "path":"sprites/Collision_spr/Collision_spr.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
